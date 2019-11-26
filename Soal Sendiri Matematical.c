@@ -8,16 +8,16 @@ int main ()
 
 
     int penjumlahan = y + x + Z;
-    printf("%s\n", penjumlahan);
+    printf("%d\n", penjumlahan);
 
     int perkalian = y * x * z;
-    printf("%s\n", perkalian);
+    printf("%d\n", perkalian);
 
     int pembagian = y / x / z;
-    printf("%s\n", pembagian);
+    printf("%d\n", pembagian);
 
     int pengurangan = y - x;
-    printf("%s\n", pengurangan);
+    printf("%d\n", pengurangan);
 
     return 0;
 

@@ -9,7 +9,7 @@ int main ()
     int angka5 = 25;
     int angka6 = 15;
 
-    float akhir = (float) =  angka2 * angka3 - angka4 / angka5 * angka6;
+    float akhir = (float) angka1 + angka2 * angka3 - angka4 / angka5 * angka6;
     printf("float akhir = %.2f\n", akhir);
 
     return 0;
